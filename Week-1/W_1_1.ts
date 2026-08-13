@@ -1,4 +1,4 @@
-let UserName:string="Likitha";
+let UserName:string="Dolly";
 let UserAge:number=20;
 let isMember:boolean=true;
 console.log("Data type of userName is-->"+typeof UserName);

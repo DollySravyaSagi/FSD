@@ -1,5 +1,5 @@
 "use strict";
-let UserName = "Likitha";
+let UserName = "Dolly";
 let UserAge = 20;
 let isMember = true;
 console.log("Data type of userName is-->" + typeof UserName);
